@@ -20,8 +20,8 @@
 解密每一行密文, 并打印明文. 如果有多种可能的明文, 输出任何一个即可.
 如果没有可能的明文, 用星号来取代每一个字母.
 
-输入示例：
-
+测试用例1：
+输入：
 5
 the 
 big
@@ -31,8 +31,38 @@ rock
 xej mck mfok xejpwz wpdu
 fff jjj pppp dddddd
 
-输出示例：
-
+输出：
 the big bang theory rock
 *** *** **** ******
+
+测试用例2：
+输入：
+23
+already
+diplomacy
+senate
+house
+agreed
+hardening
+further
+representatives
+delay
+to
+passed
+has
+iran
+but
+chance
+succeed
+a
+sanctions
+of
+bill
+allow
+action
+the
+rko kzxbo zt sonsobohrvrqaob kvb vpsovud nvbbou v wqpp kvsuohqhi qsvh bvhgrqzhb wxr rko bohvro visoou rz uopvd txsrkos vgrqzh rz vppzy uqnpzcvgd v gkvhgo rz bxggoou
+
+输出：
+the house of representatives has already passed a bill hardening iran sanctions but the senate agreed to delay further action to allow diplomacy a chance to succeed
 
